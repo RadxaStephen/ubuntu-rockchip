@@ -1,3 +1,10 @@
+u-boot-radxa-rk3588 (2017.09+20240313.gitd1cf4913-1) jammy; urgency=medium
+
+  * use radxa u-boot branch next-dev-v2024.03
+  * radxa rock5: update ddr blob to improve stability
+
+ -- Stephen Chen <stephen@radxa.com>  Stephen Chen <stephen@radxa.com>
+
 u-boot-radxa-rk3588 (2017.09+20240313.gitcdbe95ed-1) jammy; urgency=medium
 
   * enable the rock 5b plus
